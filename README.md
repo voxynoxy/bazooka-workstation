@@ -649,16 +649,15 @@ Bazooka does not implement:
 - exploit automation
 - public-target attack workflows
 
-## License
+## Support
 
-No license has been selected yet. Before a serious public release, add a `LICENSE` file.
+If Bazooka saved you some setup time and you feel like sending the maintainer a coffee, Solana is welcome.
 
-Common options:
+```text
+Solana: YOUR_SOLANA_WALLET_ADDRESS
+```
 
-- 0BSD for a very permissive, no-attribution software license
-- The Unlicense for a public-domain-style software dedication
-- MIT License for a common permissive license with attribution
-- Apache-2.0 for a permissive license with an explicit patent grant
+No pressure. A star on the repository is also appreciated.
 
 ## Maintainer Notes
 
