@@ -668,6 +668,6 @@ Donations are welcome via **Solana**, no pressure.
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) 
 ```text
-2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b`
+2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b
 ```
 Thank you for your support 😄
