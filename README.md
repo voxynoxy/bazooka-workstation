@@ -660,12 +660,13 @@ This project is already fairly complex for a single Bash file. If the feature se
 
 ## Support Bazooka ◎
 
-If Bazooka saved you setup time or helped speed up your workflow, giving this repository a star would mean a lot.
+If **Bazooka** saved you setup time or helped speed up your workflow, giving this repository a star would mean a lot.
 
-Donations are welcome via Solana, no pressure.
+Donations are welcome via **Solana**, no pressure.
 
-Solana
+### Solana
 
+```text
 2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b
 
-Thank you for your support😄
+Thank you for your support 😄
