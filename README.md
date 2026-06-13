@@ -660,10 +660,6 @@ This project is already fairly complex for a single Bash file. If the feature se
 
 ## Support
 
-[![Star this repo](https://img.shields.io/github/stars/voxynoxy/bazooka-workstation?style=flat-square&label=Star)](https://github.com/voxynoxy/bazooka-workstation)
-
-If Bazooka saved you setup time, a star on the repository is always appreciated.
-
-Solana support is welcome, but never expected.
-
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) `2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b`
+| Support this project |
+| --- |
+| If Bazooka saved you setup time, a star on the repository is always appreciated.<br><br>Donations are welcome via Solana, no pressure.<br><br>**Solana**<br>`2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b` |
