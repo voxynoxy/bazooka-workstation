@@ -661,14 +661,11 @@ This project is already fairly complex for a single Bash file. If the feature se
 ## Support
 
 [![Star this repo](https://img.shields.io/github/stars/voxynoxy/bazooka-workstation?style=flat-square&label=Star)](https://github.com/voxynoxy/bazooka-workstation)
-[![Solana](https://img.shields.io/badge/Solana-2XEFJr...GC9b-9945FF?style=flat-square&logo=solana&logoColor=white)](#support)
-
-![Support Bazooka on Solana](assets/support-solana.svg)
 
 If Bazooka saved you setup time, a star on the repository is always appreciated.
 
-Donations are welcome via Solana. No pressure; this project stays free either way.
+Solana support is welcome, but never expected.
 
-```text
-Solana: 2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b
+```console
+2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b
 ```
