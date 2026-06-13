@@ -660,12 +660,15 @@ This project is already fairly complex for a single Bash file. If the feature se
 
 ## Support
 
-![Send coffee on Solana](https://img.shields.io/badge/send%20coffee-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+[![Star this repo](https://img.shields.io/github/stars/voxynoxy/bazooka-workstation?style=flat-square&label=Star)](https://github.com/voxynoxy/bazooka-workstation)
+[![Solana](https://img.shields.io/badge/Solana-2XEFJr...GC9b-9945FF?style=flat-square&logo=solana&logoColor=white)](#support)
 
-If Bazooka saved you some setup time and you feel like sending the maintainer a coffee, Solana is welcome.
+![Support Bazooka on Solana](assets/support-solana.svg)
+
+If Bazooka saved you setup time, a star on the repository is always appreciated.
+
+Donations are welcome via Solana. No pressure; this project stays free either way.
 
 ```text
 Solana: 2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b
 ```
-
-No pressure. A star on the repository is also appreciated.
