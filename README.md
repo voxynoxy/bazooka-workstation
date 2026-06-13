@@ -658,8 +658,14 @@ This project is already fairly complex for a single Bash file. If the feature se
 - adding CI with `bash -n`, `shellcheck`, and dry-run smoke tests
 - moving the main engine to Python or Go if the logic grows significantly
 
-## Support
+## Support Bazooka ◎
 
-| Support this project |
-| --- |
-| If Bazooka saved you setup time, a star on the repository is always appreciated.<br><br>Donations are welcome via Solana, no pressure.<br><br>**Solana**<br>`2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b` |
+If Bazooka saved you setup time or helped speed up your workflow, giving this repository a star would mean a lot.
+
+Donations are welcome via Solana, no pressure.
+
+Solana
+
+2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b
+
+Thank you for your support😄
