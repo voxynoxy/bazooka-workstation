@@ -660,7 +660,7 @@ This project is already fairly complex for a single Bash file. If the feature se
 
 ## Support
 
-[![Star this repo](https://img.shields.io/github/stars/voxynoxy/bazooka-workstation?style=flat-square&label=Star)](https://github.com/voxynoxy/bazooka-workstation)
+[![Star this repo](https://img.shields.io/github/stars/voxynoxy/bazooka-workstation?style=flat-square&label=Star&cacheSeconds=3600)](https://github.com/voxynoxy/bazooka-workstation)
 
 If Bazooka saved you setup time, a star on the repository is always appreciated.
 
