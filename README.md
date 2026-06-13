@@ -649,16 +649,6 @@ Bazooka does not implement:
 - exploit automation
 - public-target attack workflows
 
-## Support
-
-If Bazooka saved you some setup time and you feel like sending the maintainer a coffee, Solana is welcome.
-
-```text
-Solana: YOUR_SOLANA_WALLET_ADDRESS
-```
-
-No pressure. A star on the repository is also appreciated.
-
 ## Maintainer Notes
 
 This project is already fairly complex for a single Bash file. If the feature set keeps growing, consider:
@@ -667,3 +657,15 @@ This project is already fairly complex for a single Bash file. If the feature se
 - adding test scripts
 - adding CI with `bash -n`, `shellcheck`, and dry-run smoke tests
 - moving the main engine to Python or Go if the logic grows significantly
+
+## Support
+
+![Send coffee on Solana](https://img.shields.io/badge/send%20coffee-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
+If Bazooka saved you some setup time and you feel like sending the maintainer a coffee, Solana is welcome.
+
+```text
+Solana: 2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b
+```
+
+No pressure. A star on the repository is also appreciated.
