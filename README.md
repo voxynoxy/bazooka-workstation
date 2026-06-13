@@ -668,5 +668,5 @@ Donations are welcome via **Solana**, no pressure.
 
 ```text
 2XEFJrnzoMRssr65HwgTdnckonkS4kdmQsJWUYzLGC9b
-
+```
 Thank you for your support 😄
